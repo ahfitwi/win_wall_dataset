@@ -1,6 +1,8 @@
 # win_wall_dataset
 Totally about 27000 images (50% of them contain windows and the remaining are walls):  
+
     - 0_raw_win_images_99: 99 images
+    
     - 1_raw_wall_images_99: 99 images
     
 Dependencies:
