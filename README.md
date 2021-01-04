@@ -16,4 +16,4 @@ Dependencies:
   Scipy = 1.4.1; 
   Python Label Package;
   
-If you need more images, please email us a request via afitwi1@binghamton.edu.
+If you need more images, please email us a request via afitwi1@binghamton.edu. We will email the dataset via google drive within a week's time.
