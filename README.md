@@ -1,5 +1,5 @@
 # win_wall_dataset
-Totally about 27000 images (50% of them contain windows and the remaining are walls):  
+Totally about 27000 images (50% of them contain windows and the remaining are walls) were employed but we cannot upload all of them here. Only sample images for each label are uploaded, as outlined below. If you need more images, please email us your request with clear mention of the purpose via afitwi1@binghamton.edu. We will email you the whole dataset via google drive as soon as possible.
 
     - 0_raw_win_images_99: 99 images
     
@@ -16,4 +16,4 @@ Dependencies:
   Scipy = 1.4.1; 
   Python Label Package;
   
-If you need more images, please email us a request via afitwi1@binghamton.edu. We will email the dataset via google drive within a week's time.
+
